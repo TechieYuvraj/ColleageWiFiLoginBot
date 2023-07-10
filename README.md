@@ -7,3 +7,7 @@ Just you all have to do is Copy and Paste the code which you like in your VS Cod
 LET's MAKE SOME CHANGES IN THE CODE BEFORE RUNNIG IT.....
 1. Change your WiFi User Name and Password. {Ex.> My Username:- 22gitcse12345 & Password:- 123456789} change this according to your's.
 2. Change your Wifi login page according to the link provided by your collage. {Ex.> http://10.17.0.1:1000/login?051a89e966e12d73} change this according to your's.
+
+If you are unable to run connect to the wifi using the code, then you may check the folder "Error You May Get" on the home page. 
+
+Thank You
