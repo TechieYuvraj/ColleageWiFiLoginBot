@@ -33,7 +33,7 @@ def connect_to_wifi(username, password):
         time.sleep(10)
 
 # Usage
-username = "22gitcse13"
-password = "yuvraj789"
+username = "22gitcse12345"
+password = "123456789"
 
 connect_to_wifi(username, password)
